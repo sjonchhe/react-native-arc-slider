@@ -1,0 +1,20 @@
+{
+  "name": "react-native-arc-slider",
+  "version": "1.0.0",
+  "description": "React Native component for creating arc slider.",
+  "main": "ArcSlider.js",
+  "author": "zgatrying",
+  "keywords": [
+    "react",
+    "react-native",
+    "slider",
+    "svg",
+    "arc"
+  ],
+  "peerDependencies": {
+    "react-native": "0.55.3",
+    "react": "16.3.1",
+    "react-native-svg": "6.5.3"
+  },
+  "license": "MIT"
+}
